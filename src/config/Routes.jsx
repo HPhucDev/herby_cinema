@@ -22,7 +22,7 @@ const Routes = () => {
                 component={Catalog}
             />
             <Route
-                path='/'
+                path='/herby_cinema'
                 exact
                 component={Home}
             />
