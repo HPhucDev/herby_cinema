@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/herby_cinema/static/css/main.bda39b71.chunk.css",
+    "main.js": "/herby_cinema/static/js/main.aa9291c2.chunk.js",
+    "main.js.map": "/herby_cinema/static/js/main.aa9291c2.chunk.js.map",
+    "runtime-main.js": "/herby_cinema/static/js/runtime-main.43819dc4.js",
+    "runtime-main.js.map": "/herby_cinema/static/js/runtime-main.43819dc4.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/herby_cinema/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.edd0843a.chunk.js": "/herby_cinema/static/js/2.edd0843a.chunk.js",
+    "static/js/2.edd0843a.chunk.js.map": "/herby_cinema/static/js/2.edd0843a.chunk.js.map",
+    "index.html": "/herby_cinema/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/herby_cinema/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.bda39b71.chunk.css.map": "/herby_cinema/static/css/main.bda39b71.chunk.css.map",
+    "static/js/2.edd0843a.chunk.js.LICENSE.txt": "/herby_cinema/static/js/2.edd0843a.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/herby_cinema/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/herby_cinema/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.1b16d20e.png": "/herby_cinema/static/media/tmovie.1b16d20e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43819dc4.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.edd0843a.chunk.js",
+    "static/css/main.bda39b71.chunk.css",
+    "static/js/main.aa9291c2.chunk.js"
+  ]
+}
