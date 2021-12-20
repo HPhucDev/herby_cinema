@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/herby_cinema/static/css/main.bda39b71.chunk.css",
-    "main.js": "/herby_cinema/static/js/main.107bbe78.chunk.js",
-    "main.js.map": "/herby_cinema/static/js/main.107bbe78.chunk.js.map",
+    "main.js": "/herby_cinema/static/js/main.aa9291c2.chunk.js",
+    "main.js.map": "/herby_cinema/static/js/main.aa9291c2.chunk.js.map",
     "runtime-main.js": "/herby_cinema/static/js/runtime-main.43819dc4.js",
     "runtime-main.js.map": "/herby_cinema/static/js/runtime-main.43819dc4.js.map",
     "static/css/2.2894c9e2.chunk.css": "/herby_cinema/static/css/2.2894c9e2.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.2894c9e2.chunk.css",
     "static/js/2.edd0843a.chunk.js",
     "static/css/main.bda39b71.chunk.css",
-    "static/js/main.107bbe78.chunk.js"
+    "static/js/main.aa9291c2.chunk.js"
   ]
 }
